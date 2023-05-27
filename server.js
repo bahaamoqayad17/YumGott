@@ -23,7 +23,7 @@ admin.initializeApp({
 
 mongoose.set("strictQuery", false);
 mongoose
-  .connect(DB, {
+  .connect("mongodb+srv://bahaa:UVKaBQx9zv4xOoyM@database.pjdgb3u.mongodb.net/", {
     useNewUrlParser: true,
   })
   .then(() => console.log("DB connection successful!"));
