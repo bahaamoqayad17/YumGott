@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Super Admin",
+    "email": "admin@admin.com",
+    "role": "Admin",
+    "password": 123456
+  },
+  {
+    "_id": "5c7a1d5b0190b214360dc057",
+    "name": "test1",
+    "email": "test@test.com",
+    "role": "rest",
+    "password": 123456,
+    "bio": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layoutThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+  },
+  {
+    "_id": "5c6a1d5b0190b214360dc057",
+    "name": "test2",
+    "email": "rest@rest.com",
+    "role": "rest",
+    "password": 123456,
+    "bio": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layoutThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+  },
+  {
+    "_id": "5c5a1d5b0190b214360dc057",
+    "name": "test2",
+    "email": "test2@test2.com",
+    "role": "rest",
+    "password": 123456,
+    "bio": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layoutThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+  },
+  {
+    "_id": "5c4a1d5b0190b214360dc057",
+    "name": "test3",
+    "email": "rest2@rest2.com",
+    "role": "rest",
+    "password": 123456,
+    "bio": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layoutThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+  },
+  {
+    "_id": "5c3a1d5b0190b214360dc057",
+    "name": "test4",
+    "email": "rest3@rest3.com",
+    "role": "user",
+    "password": 123456
+  },
+  {
+    "_id": "5c2a1d5b0190b214360dc057",
+    "name": "test5",
+    "email": "test4@test4.com",
+    "role": "user",
+    "password": 123456
+  }
+]
